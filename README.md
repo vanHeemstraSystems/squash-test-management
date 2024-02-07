@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+squash-test-management
+# Squash Test Management
 
-Based on "ABC" at https://www.abc.com/
+Based on "Squash Test Management" at https://www.squashtest.com/squash?lang=en
 
 ## 100 - Introduction
 
